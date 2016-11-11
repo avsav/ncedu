@@ -1,6 +1,8 @@
-# Maven Simple Web Project
+## Maven Simple Web Project
 
-## [Task description] (https://github.com/alef-ru/nc-edu/blob/master/task1.md)
+#### Created by Groznova Anastasia
+
+### [Task description] (https://github.com/alef-ru/nc-edu/blob/master/task1.md)
 
 ### Resources
 
@@ -15,4 +17,4 @@
  - Java Servlet and JSP Cook book. Bruce W. Perry;
  - Pro Git. Scott Chacon.
  
-#### Created by Groznova Anastasia
+

@@ -2,7 +2,7 @@
 
 ## [Task description] (https://github.com/alef-ru/nc-edu/blob/master/task1.md)
 
-### Using resources
+### Resources
 
 #### Links:
  - [JUnit] (https://habrahabr.ru/post/120101/)
@@ -15,4 +15,4 @@
  - Java Servlet and JSP Cook book. Bruce W. Perry;
  - Pro Git. Scott Chacon.
  
-## Created by Groznova Anastasia
+#### Created by Groznova Anastasia
